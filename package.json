@@ -1,0 +1,7 @@
+{
+  "name": "webppl-node-progress-bar",
+  "main": "src/library.js",
+  "dependencies": {
+    "progress": "^1.1.8"
+  }
+}
