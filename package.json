@@ -3,5 +3,21 @@
   "main": "src/library.js",
   "dependencies": {
     "progress": "^1.1.8"
-  }
+  },
+  "description": "",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-a/webppl-node-progress-bar.git"
+  },
+  "author": "null-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-a/webppl-node-progress-bar/issues"
+  },
+  "homepage": "https://github.com/null-a/webppl-node-progress-bar#readme"
 }
